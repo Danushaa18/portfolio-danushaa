@@ -33,7 +33,7 @@ export function Footer() {
           ) : null}
         </ul>
         <p className="mono">
-          {site.name}, {year}. Built with Next.js, GSAP and Framer Motion.
+          {site.name}, {year}.
         </p>
       </div>
     </footer>
