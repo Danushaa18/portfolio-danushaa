@@ -25,7 +25,7 @@ export const site = {
 
   portrait: {
     // e.g. "/portrait.jpg" (place the file in /public). null shows a marked placeholder.
-    src: "/image-danu.png" as string | null,
+    src: "/image-danushaa.png" as string | null,
     alt: "Portrait of Danushaa M S",
     // Optional: CSS object-position to art-direct the crop, e.g. "50% 20%".
     focus: "50% 25%",
